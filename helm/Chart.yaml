@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-investment-portfolio-management
+description: "BIAN Service Domain: Investment Portfolio Management (Manage pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Securities"
+  bian/asset-type: "Investment Portfolio"
+  bian/control-record: "Investment Portfolio Management Plan"
